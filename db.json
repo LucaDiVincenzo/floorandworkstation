@@ -1,4 +1,4 @@
-{
+{'fakegetfloor' :{
     "success": true,
     "message": "Free Workstation List",
     "payload": [
@@ -151,4 +151,5 @@
             ]
         }
     ]
+}
 }
